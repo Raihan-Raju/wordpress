@@ -8,7 +8,7 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>BizPage</h3>
+            <h3>Raihan</h3>
             <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
           </div>
 
@@ -69,7 +69,7 @@
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=BizPage
         -->
-        Designed by <a href="https://www.facebook.com/profile.php?id=100087479240551">Mohammad Abdullah-Al-Nahzad</a>
+        Designed by <a href="https://www.facebook.com/profile.php?id=100087479240551">Md raihan Molla Raju</a>
       </div>
     </div>
   </footer><!-- #footer -->
